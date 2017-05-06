@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 git is step4
 my stupid boss still prefers svn
 push to origin master success ye!
-creating a new branch is quick
+Creating a new branch is quick & simple.
