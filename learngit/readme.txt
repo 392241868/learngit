@@ -6,3 +6,5 @@ my stupid boss still prefers svn
 push to origin master success ye!
 creating a new branch is quick and simple
 add a line
+add a line
+add a line
